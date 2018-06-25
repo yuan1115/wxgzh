@@ -1,0 +1,48 @@
+[ 2018-06-14T13:35:05+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001271s ]
+NOTIC: [8] Undefined index: is_page D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 28 行.
+NOTIC: [8] Undefined index: orderType D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 36 行.
+NOTIC: [8] Undefined index: startTime D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\AdminModel.class.php 第 29 行.
+NOTIC: [8] Undefined index: name D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\AdminModel.class.php 第 35 行.
+NOTIC: [8] Undefined index: id D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 74 行.
+NOTIC: [8] Undefined variable: msg D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\ParamModel.class.php 第 57 行.
+NOTIC: [8] Undefined index: code D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 80 行.
+ERR: 1033:Incorrect information in file: '.\ryshop\shop_admin.frm'
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_admin`
+ERR: 1033:Incorrect information in file: '.\ryshop\shop_admin.frm'
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_admin`
+
+[ 2018-06-14T13:39:56+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001958s ]
+NOTIC: [8] Undefined index: is_page D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 28 行.
+NOTIC: [8] Undefined index: orderType D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 36 行.
+NOTIC: [8] Undefined index: startTime D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\AdminModel.class.php 第 29 行.
+NOTIC: [8] Undefined index: name D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\AdminModel.class.php 第 35 行.
+NOTIC: [8] Undefined index: id D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 74 行.
+NOTIC: [8] Undefined variable: msg D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\ParamModel.class.php 第 57 行.
+NOTIC: [8] Undefined index: code D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 80 行.
+ERR: 1033:Incorrect information in file: '.\ryshop\shop_admin.frm'
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_admin`
+ERR: 1033:Incorrect information in file: '.\ryshop\shop_admin.frm'
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_admin`
+
+[ 2018-06-14T13:41:01+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000887s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001666s ]
+NOTIC: [8] Undefined index: is_page D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 28 行.
+NOTIC: [8] Undefined index: orderType D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 36 行.
+NOTIC: [8] Undefined index: startTime D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\AdminModel.class.php 第 29 行.
+NOTIC: [8] Undefined index: name D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\AdminModel.class.php 第 35 行.
+NOTIC: [8] Undefined index: id D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 74 行.
+NOTIC: [8] Undefined variable: msg D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\ParamModel.class.php 第 57 行.
+NOTIC: [8] Undefined index: code D:\1workspace\php\www\rycs\sp.runyinchuangshi.com\Application\Api\Model\MyDataModel.class.php 第 80 行.
+ERR: 1033:Incorrect information in file: '.\ryshop\shop_admin.frm'
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_admin`
+ERR: 1033:Incorrect information in file: '.\ryshop\shop_admin.frm'
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_admin`
+

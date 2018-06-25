@@ -1,0 +1,162 @@
+[ 2018-06-20T11:21:52+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+
+[ 2018-06-20T11:24:36+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001623s ]
+
+[ 2018-06-20T11:24:42+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001497s ]
+
+[ 2018-06-20T11:31:53+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002022s ]
+
+[ 2018-06-20T13:32:51+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002714s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0074s ]
+SQL: INSERT INTO `wx_account` (`name`,`wxid`,`appid`,`appsecret`,`tonken`,`msgkey`,`code`) VALUES ('1','1','1','1','111','1','./Uploads/2018-06-20/1529465461_2005917112.jpg') [ RunTime:0.0499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001202s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001246s ]
+
+[ 2018-06-20T13:33:27+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004157s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-20T15:16:08+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0080s ]
+SQL: INSERT INTO `wx_account` (`name`,`wxid`,`appid`,`appsecret`,`tonken`,`msgkey`,`code`) VALUES ('老王的花园','gh_ea4080b15e91','wx4bfd80235bc10c84','4506239c94f7c4ab3aa3fa77ff2a4e36','m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5','yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y','./Uploads/2018-06-20/1529478965_1054398332.jpg') [ RunTime:0.0452s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001325s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001375s ]
+
+[ 2018-06-20T15:16:13+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002753s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-20T15:17:27+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001201s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002283s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-20T16:54:25+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001552s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0010s ]
+
+[ 2018-06-20T16:54:27+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001549s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-20T16:54:52+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001690s ]
+
+[ 2018-06-20T16:55:21+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003944s ]
+
+[ 2018-06-20T17:02:06+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002245s ]
+
+[ 2018-06-20T17:03:08+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002274s ]
+
+[ 2018-06-20T17:04:30+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003060s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-20T17:04:50+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002935s ]
+
+[ 2018-06-20T17:05:26+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003210s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-20T17:05:45+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001690s ]
+
+[ 2018-06-20T17:06:32+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001661s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-20T17:07:01+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001482s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002087s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-20T17:07:35+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001625s ]
+
+[ 2018-06-20T17:14:24+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001621s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0058s ]
+SQL: INSERT INTO `wx_account` (`name`,`wxid`,`appid`,`appsecret`,`tonken`,`msgkey`) VALUES ('ryshop','test','12113131313','test','111','yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y') [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001142s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001188s ]
+
+[ 2018-06-20T17:14:48+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002172s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0068s ]
+SQL: INSERT INTO `wx_account` (`name`,`wxid`,`appid`,`appsecret`,`tonken`,`msgkey`) VALUES ('ryshop','test','12113131313','test','111','yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y') [ RunTime:0.0003s ]
+
+[ 2018-06-20T17:15:43+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002487s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0058s ]
+SQL: INSERT INTO `wx_account` (`name`,`wxid`,`appid`,`appsecret`,`tonken`,`msgkey`) VALUES ('ryshop','1','test','1','111','1') [ RunTime:0.0003s ]
+

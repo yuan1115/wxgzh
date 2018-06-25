@@ -1,0 +1,125 @@
+[ 2018-06-06T15:58:14+08:00 ] 127.0.0.1 /Api/Index/AdminApi/getAdminList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001668s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-06-06T15:59:50+08:00 ] 127.0.0.1 /Api/Index/AdminApi/getAdminList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010844s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-06-06T15:59:55+08:00 ] 127.0.0.1 /Api/Index/AdminApi/getAdminList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001562s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-06-06T16:00:09+08:00 ] 127.0.0.1 /Api/Index/AdminApi/getAdminList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002085s ]
+ERR: 无法加载控制器:Index
+
+[ 2018-06-06T16:00:48+08:00 ] 127.0.0.1 /Api/AdminApiAdminApi/getAdminList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002131s ]
+ERR: 无法加载控制器:AdminApiAdminApi
+
+[ 2018-06-06T16:01:04+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001149s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001768s ]
+
+[ 2018-06-06T16:03:06+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:05:16+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:select_admin_list方法不存在！
+
+[ 2018-06-06T16:05:17+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:select_admin_list方法不存在！
+
+[ 2018-06-06T16:09:00+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:09:02+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:09:03+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:09:04+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:09:04+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:10:20+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:10:21+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:10:45+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:10:46+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:13:00+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:13:26+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:17:35+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:17:42+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:17:57+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:18:22+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectadmin方法不存在！
+
+[ 2018-06-06T16:39:39+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:40:07+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:41:02+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:42:29+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:43:55+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:44:19+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T16:53:48+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1146:Table 'ryshop.shop_' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shop_` 
+
+[ 2018-06-06T16:54:38+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1146:Table 'ryshop.shop_' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shop_` 
+
+[ 2018-06-06T16:54:54+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1146:Table 'ryshop.shop_shop_admin' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `shop_shop_admin`
+
+[ 2018-06-06T17:28:50+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+
+[ 2018-06-06T17:31:16+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:selectAdminList方法不存在！
+

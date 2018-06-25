@@ -1,0 +1,6 @@
+[ 2018-06-05T09:50:42+08:00 ] 127.0.0.1 /admin/index
+ERR: 模板不存在:./Application/Admin/View/default/Index/index.html
+
+[ 2018-06-05T09:50:42+08:00 ] 127.0.0.1 /admin/index
+ERR: 模板不存在:./Application/Admin/View/default/Index/index.html
+

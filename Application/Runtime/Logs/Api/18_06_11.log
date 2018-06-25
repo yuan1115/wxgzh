@@ -1,0 +1,99 @@
+[ 2018-06-11T11:11:35+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-11T13:13:57+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo?id=2&abc=123
+ERR: 非法操作:getAdminInfo
+
+[ 2018-06-11T13:17:15+08:00 ] 127.0.0.1 /Api/AdminApi/getAdmin?id=2&abc=123
+ERR: 非法操作:getAdmin
+
+[ 2018-06-11T13:17:22+08:00 ] 127.0.0.1 /Api/AdminApi/getAdmin?id=2&abc=123
+ERR: 非法操作:getAdmin
+
+[ 2018-06-11T14:19:30+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 非法操作:getAdminList
+
+[ 2018-06-11T15:16:32+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and name like '%admin%' ) ORDER BY id desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` WHERE ( and name like '%admin%' ) ORDER BY id desc 
+
+[ 2018-06-11T15:26:14+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'name like '%admin%' ) ORDER BY id desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` WHERE ( create_time between '2018-06-01' and '2018-06-09'name like '%admin%' ) ORDER BY id desc 
+
+[ 2018-06-11T15:27:43+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'name like '%admin%' ) ORDER BY id desc' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` WHERE ( create_time between '2018-06-01' and '2018-06-09'name like '%admin%' ) ORDER BY id desc 
+
+[ 2018-06-11T15:44:10+08:00 ] 127.0.0.1 /Api/AdminApi/addAdmin
+ERR: 非法操作:addAdmin
+
+[ 2018-06-11T15:44:30+08:00 ] 127.0.0.1 /Api/AdminApi/addAdmin
+ERR: 非法操作:addAdmin
+
+[ 2018-06-11T15:44:40+08:00 ] 127.0.0.1 /Api/AdminApi/addAdmin
+ERR: 非法操作:addAdmin
+
+[ 2018-06-11T15:45:07+08:00 ] 127.0.0.1 /Api/AdminApi/addAdmin
+ERR: 非法操作:addAdmin
+
+[ 2018-06-11T16:05:01+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: Think\Model:_status方法不存在！
+
+[ 2018-06-11T16:15:15+08:00 ] 127.0.0.1 /Api/
+ERR: 无法加载控制器:Index.php
+
+[ 2018-06-11T17:01:10+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: 1062:Duplicate entry '10' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `shop_admin` (`name`,`role_id`,`id`,`tel`,`create_time`) VALUES ('1','1','10','18142232028','2018-06-11 17:01:10')
+
+[ 2018-06-11T17:19:08+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo
+ERR: 1146:Table 'ryshop.shop_' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `shop_` WHERE ( create_time between '2018-06-01' and '2018-06-09' and name like '%admin%' ) ORDER BY id desc 
+
+[ 2018-06-11T22:08:44+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin?id=5,6,7,8&action=del
+ERR: SQLSTATE[HY000] [2002] Connection refused
+
+[ 2018-06-11T22:08:59+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo
+ERR: SQLSTATE[HY000] [2002] Connection refused
+
+[ 2018-06-11T22:12:15+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo
+ERR: SQLSTATE[HY000] [2002] Connection refused
+
+[ 2018-06-11T22:13:02+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo
+ERR: SQLSTATE[HY000] [2002] Connection refused
+
+[ 2018-06-11T22:14:20+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminInfo
+ERR: SQLSTATE[HY000] [2002] Connection refused
+
+[ 2018-06-11T22:32:34+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: Think\Model:updateMsg方法不存在！
+
+[ 2018-06-11T22:34:09+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: Think\Model:updateMsg方法不存在！
+
+[ 2018-06-11T22:35:19+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: Think\Model:updateMsg方法不存在！
+
+[ 2018-06-11T22:37:28+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: Think\Model:updateMsg方法不存在！
+
+[ 2018-06-11T23:22:25+08:00 ] 127.0.0.1 /Api/AdminApi/updateRoles
+ERR: Think\Model:updateRoles方法不存在！
+
+[ 2018-06-11T23:39:18+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `shop_admin` WHERE ( name = admin or tel = 18142232028 ) ORDER BY id desc 
+
+[ 2018-06-11T23:41:24+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: 1054:Unknown column 'admin' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `shop_admin` WHERE ( name = admin or tel = 18142232028 ) ORDER BY id desc 
+
+[ 2018-06-11T23:46:37+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1,1' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` WHERE ( name = 'admin' or tel = '18142232028' ) ORDER BY id desc LIMIT -1,1  
+
+[ 2018-06-11T23:46:41+08:00 ] 127.0.0.1 /Api/AdminApi/updateAdmin
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-1,1' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` WHERE ( name = 'admin' or tel = '18142232028' ) ORDER BY id desc LIMIT -1,1  
+

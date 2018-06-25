@@ -1,0 +1,1181 @@
+[ 2018-06-21T14:09:47+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002769s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0584s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:09:49+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002106s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T14:22:44+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002880s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:24:30+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002280s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T14:25:15+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002316s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T14:25:29+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002146s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:25:30+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002103s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:25:40+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002559s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T14:25:41+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001977s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T14:25:48+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002856s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:26:51+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002137s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003303s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:27:28+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002361s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:29:44+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003783s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T14:29:45+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002181s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0010s ]
+
+[ 2018-06-21T14:29:50+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003161s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T14:36:39+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001954s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:39:36+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002270s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T14:40:56+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002059s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T14:41:34+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002747s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T15:09:03+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001140s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0112s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T15:12:10+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002288s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T15:12:12+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002492s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T15:13:21+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002313s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0291s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0007s ]
+
+[ 2018-06-21T15:16:45+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002121s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T15:25:18+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002200s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0089s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T15:25:29+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001043s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001577s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T15:43:37+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002579s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0114s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T15:54:59+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002574s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:03:25+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001711s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0058s ]
+SQL: INSERT INTO `wx_wenti` (`wenti`,`baixun`,`da`,`appid`,`sort`) VALUES ('如果度假你会选择那个场所？','','','1','0') [ RunTime:0.0030s ]
+
+[ 2018-06-21T16:04:56+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0060s ]
+SQL: INSERT INTO `wx_wenti` (`wenti`,`baixun`,`da`,`appid`,`sort`) VALUES ('如果度假你会选择那个场所？','海南
+三亚
+巴黎','只允许1,2,3','1','1') [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:05:02+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002443s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:06:32+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002324s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:07:45+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001507s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0060s ]
+SQL: INSERT INTO `wx_wenti` (`wenti`,`baixun`,`da`,`appid`,`callback`,`sort`) VALUES ('如果度假你会选择那个场所？','海南,上海,国外','1,2,3','1','只能选择1，2，3','1') [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:13:30+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001936s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0072s ]
+SQL: INSERT INTO `wx_wenti` (`wenti`,`baixun`,`da`,`appid`,`callback`,`sort`) VALUES ('如果度假你会选择那个场所？','','','1','','0') [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:14:35+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002273s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0093s ]
+SQL: INSERT INTO `wx_wenti` (`wenti`,`baixun`,`da`,`appid`,`callback`,`sort`) VALUES ('如果度假你会选择那个场所？','','','1','','0') [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:15:06+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001530s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0061s ]
+SQL: INSERT INTO `wx_wenti` (`wenti`,`baixun`,`da`,`appid`,`callback`,`sort`) VALUES ('如果度假你会选择那个场所？','','','1','','0') [ RunTime:0.0003s ]
+
+[ 2018-06-21T16:22:14+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002107s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:29:07+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003750s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0015s ]
+
+[ 2018-06-21T16:29:10+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123&id%20=%206
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001008s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001587s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0003s ]
+
+[ 2018-06-21T16:29:13+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002359s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0003s ]
+
+[ 2018-06-21T16:29:16+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123&id%20=%206
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:29:18+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003353s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:29:28+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002564s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0009s ]
+
+[ 2018-06-21T16:29:55+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123&id%20=%206
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002003s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:30:02+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123&id%20=%206
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002547s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:30:34+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002617s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:30:42+08:00 ] 127.0.0.1 /Api/AdminApi/delAppQ?adminID=1&keys=abc123&id=6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003560s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0058s ]
+SQL: DELETE FROM `wx_wenti` WHERE ( id = 6 ) [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:30:48+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002637s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:31:47+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001932s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:31:49+08:00 ] 127.0.0.1 /Api/AdminApi/delAppQ?adminID=1&keys=abc123&id=5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001060s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001799s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0068s ]
+SQL: DELETE FROM `wx_wenti` WHERE ( id = 5 ) [ RunTime:0.0003s ]
+
+[ 2018-06-21T16:31:56+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002260s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:32:03+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003088s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:32:06+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002448s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:32:25+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002182s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0083s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:32:30+08:00 ] 127.0.0.1 /Api/AdminApi/delAppQ?adminID=1&keys=abc123&id=4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001480s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0058s ]
+SQL: DELETE FROM `wx_wenti` WHERE ( id = 4 ) [ RunTime:0.0003s ]
+
+[ 2018-06-21T16:34:06+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002489s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:34:17+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002574s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:35:21+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002664s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:36:22+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002574s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:36:29+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002584s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:36:36+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001721s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:36:40+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001512s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0059s ]
+SQL: INSERT INTO `wx_wenti` (`wenti`,`baixun`,`da`,`appid`,`callback`,`sort`) VALUES ('如果度假你会选择那个场所？','','','1','','0') [ RunTime:0.0003s ]
+
+[ 2018-06-21T16:36:49+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:36:58+08:00 ] 127.0.0.1 /Api/AdminApi/delAppQ?adminID=1&keys=abc123&id=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0059s ]
+SQL: DELETE FROM `wx_wenti` WHERE ( id = 7 ) [ RunTime:0.0003s ]
+
+[ 2018-06-21T16:37:41+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001058s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0015s ]
+
+[ 2018-06-21T16:37:43+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002601s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:39:41+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001600s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0128s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:39:58+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002524s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0117s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:40:19+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002018s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:40:21+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003616s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0010s ]
+
+[ 2018-06-21T16:41:07+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002590s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:41:25+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002287s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:42:26+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002259s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:42:48+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002584s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:42:52+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002036s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:42:55+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002617s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:47:56+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002514s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:48:01+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002534s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:48:46+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002478s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:49:15+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002552s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:49:28+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002504s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:49:42+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002506s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:52:49+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002177s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:57:10+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002493s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0006s ]
+
+[ 2018-06-21T16:58:32+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002668s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T16:58:34+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001131s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001829s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T16:59:07+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002667s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003667s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0010s ]
+
+[ 2018-06-21T16:59:13+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002426s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:14:50+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001725s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:14:54+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T17:16:20+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002576s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:18:46+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002409s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T17:18:50+08:00 ] 127.0.0.1 /Api/AdminApi/AppQOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002567s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `wx_wenti` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0327s ]
+
+[ 2018-06-21T17:22:40+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002199s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:22:43+08:00 ] 127.0.0.1 /Api/AdminApi/AppQOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001702s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002537s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `wx_wenti` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:23:15+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001229s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001822s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:23:18+08:00 ] 127.0.0.1 /Api/AdminApi/AppQOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001660s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `wx_wenti` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-06-21T17:23:37+08:00 ] 127.0.0.1 /Api/AdminApi/addAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001085s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0060s ]
+SQL: INSERT INTO `wx_wenti` (`wenti`,`baixun`,`da`,`appid`,`callback`,`sort`) VALUES ('如果度假你会选择那个场所？','海南,上海,国外,国内','1,2,3','1','只能选择1，2，3','1') [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:24:43+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001934s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:25:10+08:00 ] 127.0.0.1 /Api/AdminApi/AppQOne?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003180s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `wx_wenti` WHERE ( id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:25:26+08:00 ] 127.0.0.1 /Api/AdminApi/editAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001532s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0060s ]
+
+[ 2018-06-21T17:25:33+08:00 ] 127.0.0.1 /Api/AdminApi/editAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002840s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0094s ]
+
+[ 2018-06-21T17:25:56+08:00 ] 127.0.0.1 /Api/AdminApi/editAppQ?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001990s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0059s ]
+
+[ 2018-06-21T17:27:07+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001693s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002535s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:27:09+08:00 ] 127.0.0.1 /Api/AdminApi/AppQOne?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002469s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `wx_wenti` WHERE ( id = 8 ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-06-21T17:27:18+08:00 ] 127.0.0.1 /Api/AdminApi/editAppQ?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016441s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0107s ]
+SQL: UPDATE `wx_wenti` SET `wenti`='如果度假你会选择那个场所？',`baixun`='海南,上海,国外,国内',`da`='1,2,3,4',`appid`='1',`callback`='只能选择1，2，3，4',`sort`='1' WHERE ( id = 8 ) [ RunTime:0.0009s ]
+
+[ 2018-06-21T17:27:22+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T17:27:39+08:00 ] 127.0.0.1 /Api/AdminApi/delAppQ?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0060s ]
+SQL: DELETE FROM `wx_wenti` WHERE ( id = 8 ) [ RunTime:0.0003s ]
+
+[ 2018-06-21T17:27:44+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0007s ]
+
+[ 2018-06-21T17:27:51+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:31:59+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002378s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T17:32:01+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002305s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0003s ]
+
+[ 2018-06-21T17:32:03+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001677s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0095s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T17:32:04+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001951s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T17:32:05+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002816s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0009s ]
+
+[ 2018-06-21T17:33:37+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001769s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T17:34:53+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T17:34:55+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:33:56+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001375s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.1813s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:33:58+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:34:05+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001448s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0017s ]
+
+[ 2018-06-21T18:34:23+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:35:09+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001827s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0086s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:35:13+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0053s ]
+SQL: INSERT INTO `wx_account` (`name`,`wxid`,`appid`,`appsecret`,`tonken`,`msgkey`) VALUES ('老王的花园1','gh_ea4080b15e91','wx4bfd80235bc10c84','4506239c94f7c4ab3aa3fa77ff2a4e36','m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5','yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y') [ RunTime:0.1447s ]
+
+[ 2018-06-21T18:35:16+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002097s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0007s ]
+
+[ 2018-06-21T18:36:45+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001315s ]
+
+[ 2018-06-21T18:36:50+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001902s ]
+
+[ 2018-06-21T18:36:53+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001281s ]
+
+[ 2018-06-21T18:36:54+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001614s ]
+
+[ 2018-06-21T18:36:55+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001374s ]
+
+[ 2018-06-21T18:36:56+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+
+[ 2018-06-21T18:37:38+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001159s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001776s ]
+
+[ 2018-06-21T18:37:47+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002123s ]
+
+[ 2018-06-21T18:38:22+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+
+[ 2018-06-21T18:38:49+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0007s ]
+
+[ 2018-06-21T18:38:57+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001482s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 7 ) LIMIT 1   [ RunTime:0.0150s ]
+
+[ 2018-06-21T18:39:03+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123&id=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001456s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0068s ]
+SQL: INSERT INTO `wx_account` (`name`,`wxid`,`appid`,`appsecret`,`tonken`,`msgkey`) VALUES ('老王的花园2','gh_ea4080b15e91','wx4bfd80235bc10c84','4506239c94f7c4ab3aa3fa77ff2a4e36','m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5','yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y') [ RunTime:0.0007s ]
+
+[ 2018-06-21T18:39:06+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001538s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0078s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:39:29+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:39:32+08:00 ] 127.0.0.1 /Api/AdminApi/editwxAccount?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001257s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0059s ]
+SQL: UPDATE `wx_account` SET `name`='老王的花园2',`wxid`='gh_ea4080b15e91',`appid`='wx4bfd80235bc10c84',`appsecret`='4506239c94f7c4ab3aa3fa77ff2a4e36',`tonken`='m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5',`msgkey`='yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y' WHERE ( id = 8 ) [ RunTime:0.0401s ]
+
+[ 2018-06-21T18:39:34+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001526s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:39:41+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001439s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 8 ) LIMIT 1   [ RunTime:0.0023s ]
+
+[ 2018-06-21T18:40:28+08:00 ] 127.0.0.1 /Api/AdminApi/editwxAccount?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001360s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0058s ]
+SQL: UPDATE `wx_account` SET `name`='老王的花园2',`wxid`='gh_ea4080b15e91',`appid`='wx4bfd80235bc10c841',`appsecret`='4506239c94f7c4ab3aa3fa77ff2a4e36',`tonken`='m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5',`msgkey`='yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y' WHERE ( id = 8 ) [ RunTime:0.0007s ]
+
+[ 2018-06-21T18:41:15+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000824s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:41:20+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 8 ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:41:27+08:00 ] 127.0.0.1 /Api/AdminApi/editwxAccount?adminID=1&keys=abc123&id=8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0053s ]
+SQL: UPDATE `wx_account` SET `name`='老王的花园3',`wxid`='gh_ea4080b15e91',`appid`='wx4bfd80235bc10c841',`appsecret`='4506239c94f7c4ab3aa3fa77ff2a4e36',`tonken`='m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5',`msgkey`='yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y' WHERE ( id = 8 ) [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:41:50+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001396s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:41:54+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001627s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:41:59+08:00 ] 127.0.0.1 /Api/AdminApi/editwxAccount?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001276s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0055s ]
+SQL: UPDATE `wx_account` SET `name`='老王的花园1',`wxid`='gh_ea4080b15e91',`appid`='wx4bfd80235bc10c84',`appsecret`='4506239c94f7c4ab3aa3fa77ff2a4e36',`tonken`='m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5',`msgkey`='yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y' WHERE ( id = 3 ) [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:42:10+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:42:36+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001479s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:42:38+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001854s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-06-21T18:42:41+08:00 ] 127.0.0.1 /Api/AdminApi/editwxAccount?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001567s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0057s ]
+SQL: UPDATE `wx_account` SET `name`='老王的花园3',`wxid`='gh_ea4080b15e91',`appid`='wx4bfd80235bc10c84',`appsecret`='4506239c94f7c4ab3aa3fa77ff2a4e36',`tonken`='m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5',`msgkey`='yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y' WHERE ( id = 3 ) [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:42:44+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:43:09+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001812s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:43:12+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002052s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0016s ]
+
+[ 2018-06-21T18:43:16+08:00 ] 127.0.0.1 /Api/AdminApi/editwxAccount?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001691s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0056s ]
+SQL: UPDATE `wx_account` SET `name`='老王的花园',`wxid`='gh_ea4080b15e91',`appid`='wx4bfd80235bc10c84',`appsecret`='4506239c94f7c4ab3aa3fa77ff2a4e36',`tonken`='m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5',`msgkey`='yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y' WHERE ( id = 3 ) [ RunTime:0.0003s ]
+
+[ 2018-06-21T18:43:19+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:44:38+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002265s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:44:49+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001281s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002088s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2018-06-21T18:44:53+08:00 ] 127.0.0.1 /Api/AdminApi/editwxAccount?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000910s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001439s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0062s ]
+SQL: UPDATE `wx_account` SET `name`='老王的花园3',`wxid`='gh_ea4080b15e91',`appid`='wx4bfd80235bc10c84',`appsecret`='4506239c94f7c4ab3aa3fa77ff2a4e36',`tonken`='m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5',`msgkey`='yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y' WHERE ( id = 3 ) [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:45:11+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:45:13+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccountOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002061s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `wx_account` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2018-06-21T18:45:16+08:00 ] 127.0.0.1 /Api/AdminApi/editwxAccount?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001445s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0056s ]
+SQL: UPDATE `wx_account` SET `name`='老王的花园',`wxid`='gh_ea4080b15e91',`appid`='wx4bfd80235bc10c84',`appsecret`='4506239c94f7c4ab3aa3fa77ff2a4e36',`tonken`='m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5',`msgkey`='yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y' WHERE ( id = 3 ) [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:45:19+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003284s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:45:23+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003095s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0384s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:45:51+08:00 ] 127.0.0.1 /Api/AdminApi/AppQOne?adminID=1&keys=abc123&id=3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002180s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `wx_wenti` WHERE ( id = 3 ) LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:46:59+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0069s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0005s ]
+
+[ 2018-06-21T18:47:32+08:00 ] 127.0.0.1 /Api/AdminApi/getwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002040s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `wx_account`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T18:47:58+08:00 ] 127.0.0.1 /Api/AdminApi/AppQlist?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002343s ]
+SQL: SHOW COLUMNS FROM `wx_wenti` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `wx_wenti`  [ RunTime:0.0004s ]
+
+[ 2018-06-21T19:36:39+08:00 ] 127.0.0.1 /api/wxapi/checkSignature
+ERR: 无法加载控制器:Wxapi
+
+[ 2018-06-21T20:02:28+08:00 ] 127.0.0.1 /Api/AdminApi/addwxAccount?adminID=1&keys=abc123
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002270s ]
+SQL: SHOW COLUMNS FROM `wx_account` [ RunTime:0.0063s ]
+SQL: INSERT INTO `wx_account` (`name`,`wxid`,`appid`,`appsecret`,`tonken`,`msgkey`,`code`) VALUES ('老王的花园','gh_ea4080b15e91','wx4bfd80235bc10c84','4506239c94f7c4ab3aa3fa77ff2a4e36','m9Qo8SDooSc9R74s66xOqoL4cdYn4XR5','yGl593HZZ2Fmz666zYx696HhF3xrfJM66cqr9rPC99Y','./Uploads/2018-06-21/1529582544_412594018.png') [ RunTime:0.1422s ]
+

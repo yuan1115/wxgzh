@@ -1,0 +1,161 @@
+[ 2018-06-08T13:31:13+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:31:39+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:32:32+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:32:41+08:00 ] 127.0.0.1 /api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:32:44+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:32:46+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:32:47+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:32:48+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:34:12+08:00 ] 127.0.0.1 /Api/index/index
+ERR: 无法加载控制器:Index
+
+[ 2018-06-08T13:38:00+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:41:06+08:00 ] 127.0.0.1 /Api/AdminApi/test
+ERR: 非法操作:test
+
+[ 2018-06-08T13:41:08+08:00 ] 127.0.0.1 /Api/AdminApi/test
+ERR: 非法操作:test
+
+[ 2018-06-08T13:47:07+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:47:08+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:47:09+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:47:09+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:47:09+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:47:10+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:47:10+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:47:35+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T13:49:58+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:49:59+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:10+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:11+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:11+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:11+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:11+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:12+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:27+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:28+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:28+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:29+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:29+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:51:30+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:53:57+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-15,15' at line 1
+ [ SQL语句 ] : SELECT * FROM `shop_admin` ORDER BY id desc LIMIT -15,15  
+
+[ 2018-06-08T13:59:20+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012180s ]
+NOTIC: [2048] Declaration of Api\Model\AdminModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 10 行.
+NOTIC: [2048] Declaration of Api\Model\AdminModel::save() should be compatible with Think\Model::save($data = '', $options = Array) /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 10 行.
+NOTIC: [8] Undefined index: orderType /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/CommonModel.class.php 第 53 行.
+NOTIC: [2] Illegal string offset 'id' /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 25 行.
+NOTIC: [8] Uninitialized string offset: 0 /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 25 行.
+SQL: SHOW COLUMNS FROM `shop_admin` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `shop_admin` ORDER BY id desc LIMIT 0,1   [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009064s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009144s ]
+
+[ 2018-06-08T14:16:57+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T14:17:11+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T14:21:20+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+ERR: Think\Model:ajaxReturn方法不存在！
+
+[ 2018-06-08T15:56:25+08:00 ] 127.0.0.1 /Api/AdminApi/getAdminList
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014401s ]
+NOTIC: [2048] Declaration of Api\Model\AdminModel::add() should be compatible with Think\Model::add($data = '', $options = Array, $replace = false) /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 10 行.
+NOTIC: [2048] Declaration of Api\Model\AdminModel::save() should be compatible with Think\Model::save($data = '', $options = Array) /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 10 行.
+NOTIC: [8] Undefined index: orderType /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/CommonModel.class.php 第 53 行.
+NOTIC: [2] Illegal string offset 'id' /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 25 行.
+NOTIC: [8] Uninitialized string offset: 0 /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 25 行.
+NOTIC: [2] Illegal string offset 'startTime' /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 28 行.
+NOTIC: [8] Uninitialized string offset: 0 /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 28 行.
+NOTIC: [2] Illegal string offset 'adminName' /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 33 行.
+NOTIC: [8] Uninitialized string offset: 0 /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/AdminModel.class.php 第 33 行.
+SQL: SHOW COLUMNS FROM `shop_admin` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `shop_admin` ORDER BY id desc LIMIT 0,1   [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: _code /media/jmx/Workspace/1workspace/php/www/rycs/sp.runyinchuangshi.com/Application/Api/Model/CommonModel.class.php 第 78 行.
+
